@@ -1,0 +1,3 @@
+.outliner-active * {
+  outline: 1px solid #ff00ff !important;
+}
